@@ -1,16 +1,16 @@
 def speak_to_grandma(cutiepie) #method definition
 if cutiepie == cutiepie.upcase
-  oldie = "NO, NOT SINCE 1938!"
+  oldie = 'NO, NOT SINCE 1938!'
   puts oldie
   oldie
 
-elsif cutiepie == "I LOVE YOU GRANDMA!"
-aww = "I LOVE YOU TOO PUMPKIN!"
+elsif cutiepie == 'I LOVE YOU GRANDMA!'
+aww = 'I LOVE YOU TOO PUMPKIN!'
 puts aww
 aww
 
 else 
-  shout = "HUH?! SPEAK UP, SONNY!"
+  shout = 'HUH?! SPEAK UP, SONNY!'
   puts shout
   shout
 end
