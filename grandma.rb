@@ -4,10 +4,7 @@ if cutiepie == cutiepie.upcase
   puts oldie
   oldie
 
-elsif cutiepie == 'I LOVE YOU GRANDMA!'
-aww = 'I LOVE YOU TOO PUMPKIN!'
-puts aww
-aww
+
 
 else 
   shout = 'HUH?! SPEAK UP, SONNY!'
